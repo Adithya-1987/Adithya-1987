@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=220&section=header&text=ADITHYA&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=75&descColor=E0D6FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=220&section=header&text=JADHAV&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=75&descColor=E0D6FF"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+full-stack%2C+mobile+%26+AI+products+end+to+end;Turning+ideas+into+working+software;Always+open+to+collaboration"/>
 
@@ -40,7 +40,7 @@
 <sub>— Thorfinn, <b>Vinland Saga</b></sub>
 </td>
 <td valign="top" align="center" width="260">
-<img height="220" src="https://media1.tenor.com/m/QXXXchUhc7wAAAAd/thorfinn-vinland-saga.gif" alt="Thorfinn covering his face"/>
+<img height="220" src="https://media1.tenor.com/m/QXXXchUhc7wAAAAC/thorfinn-vinland-saga.gif" alt="Thorfinn covering his face"/>
 <br/>
 <sub><i>"I had nothing... but now, I'll build something real."</i></sub>
 <br/>
@@ -166,5 +166,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Adithya-1987&icon=0&color=8E2DE2" alt="Profile views"/>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
 </div>
