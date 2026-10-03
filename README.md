@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:6A1FD0,100:4A00E0&height=220&section=header&text=JADHAV&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Mobile%20%7C%20AI%20Developer&descSize=20&descAlignY=75&descColor=E0D6FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,45:1c2541,75:3a506b,100:d4a373&height=250&section=header&text=JADHAV&fontSize=64&fontColor=f1e3d3&animation=twinkling&fontAlignY=38&stroke=d4a373&strokeWidth=1&desc=%E2%80%9CA%20true%20warrior%20needs%20no%20sword%E2%80%9D&descSize=20&descAlignY=60&descColor=d4a373"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+full-stack%2C+mobile+%26+AI+products+end+to+end;Turning+ideas+into+working+software;Always+open+to+collaboration"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D4A373&center=true&vCenter=true&width=900&lines=Far+to+the+west%2C+beyond+the+end+of+the+sea;Building+full-stack%2C+mobile+%26+AI+products+end+to+end;Forging+a+land+where+no+one+has+to+fight+%E2%80%94+one+commit+at+a+time;Always+open+to+collaboration"/>
 
   <br/><br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-### About Me
+### ⚔️ The Warrior
 
 <table>
 <tr>
@@ -40,7 +40,7 @@
 <sub>— Thorfinn, <b>Vinland Saga</b></sub>
 </td>
 <td valign="top" align="center" width="260">
-<img height="220" src="https://media1.tenor.com/m/QXXXchUhc7wAAAAC/thorfinn-vinland-saga.gif" alt="Thorfinn covering his face"/>
+<img height="220" src="https://raw.githubusercontent.com/Adithya-1987/Adithya-1987/main/thorfinn2.gif" alt="Thorfinn covering his face"/>
 <br/>
 <sub><i>"I had nothing... but now, I'll build something real."</i></sub>
 <br/>
@@ -51,7 +51,7 @@
 
 ---
 
-### Tech Stack
+### 🛡️ Arsenal
 
 <div align="center">
 
@@ -150,11 +150,11 @@
 
 ---
 
-### GitHub Activity & Analytics
+### 🌊 Voyage Log
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adithya-1987&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=A78BFA&text_color=E0D6FF" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Adithya-1987&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="Streak Graph"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adithya-1987&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=D4A373&icon_color=D4A373&text_color=F1E3D3" height="150" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Adithya-1987&theme=radical&hide_border=true&background=0D1117&ring=D4A373&fire=D4A373&currStreakLabel=D4A373" height="150" alt="Streak Graph"/>
 
   <br/><br/>
 
@@ -164,7 +164,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adithya-1987&icon=0&color=8E2DE2" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Adithya-1987&icon=0&color=D4A373" alt="Profile views"/>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4a373,40:3a506b,100:0b132b&height=120&section=footer&reversal=true"/>
 </div>
